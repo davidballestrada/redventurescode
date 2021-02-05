@@ -1,0 +1,15 @@
+com\redventures\iotdevices\config\SecurityConfig.class
+com\redventures\iotdevices\entity\EmployeeAccessLog.class
+com\redventures\iotdevices\vo\IOTAutorization.class
+com\redventures\iotdevices\controller\IOTController.class
+com\redventures\iotdevices\entity\Employee.class
+com\redventures\iotdevices\constants\IOTConstants.class
+com\redventures\iotdevices\IotdevicesApplication.class
+com\redventures\iotdevices\repository\EmployeesAccessRepository.class
+com\redventures\iotdevices\service\EmployeeValidation.class
+com\redventures\iotdevices\entity\EmployeesAccess.class
+com\redventures\iotdevices\vo\Payload.class
+com\redventures\iotdevices\repository\EmployeeAccessLogRepository.class
+com\redventures\iotdevices\entity\Door.class
+com\redventures\iotdevices\service\impl\EmployeeValidationImpl.class
+com\redventures\iotdevices\vo\IOTCall.class
